@@ -1,0 +1,33 @@
+.head {
+    text-align: center;
+    font-size: large;
+    color: royalblue;
+    font-size: 40px;
+}
+
+.layout {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    font-size: 70px;
+    color:black;
+    text-align: center;
+}
+
+#timer1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 35%;
+    width: 35%;
+    border-radius: 100%;
+    color:black;
+    background-color:white;
+    font-size: 200px;
+}
